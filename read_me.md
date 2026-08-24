@@ -6,13 +6,13 @@ This project has been created for the exam of the course "NLP for social media".
 
 ## Repository's structure
 
-| File / Cartella | Descrizione |
+| File  | Description |
 | :--- | :--- |
 | `Sentiment_Analysis_Full_project.ipynb` | Jupyter Notebook with the code for the exam
 | `Customer_reviews.csv` | reviews already preprocessed used to conduct the experiment. |
-|ber_results.csv| file containing bert's predictions |
+|`bert_results.csv`| file containing bert's predictions |
 | `vader_results.csv` | file containing vader's predictions |
-|`genai_results.csv` | file containing bert's predictions |
+|`genai_results.csv` | file containing Flan-T5's predictions |
 | `README.md` | Documentation about the project. |
 
 ---
